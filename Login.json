@@ -2,13 +2,13 @@
   "User":[
     {
       "id": 1,
-      "userName": "hd13112011@gmail.com",
+      "userName": "test@gmail.com",
       "Password": "thanh123",
       "IMG" : "https://www.emmegi.co.uk/wp-content/uploads/2019/01/User-Icon.jpg"
     },
     {
       "id": 2,
-      "userName": "phuong",
+      "userName": "test2@gmail.com",
       "Password": "123",
       "IMG" : "https://speedwash.vn/upload/testimotion/10_avatar-512.png"
     }
