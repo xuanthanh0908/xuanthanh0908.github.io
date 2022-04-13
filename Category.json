@@ -1,0 +1,39 @@
+{
+  "Category": [
+    {
+      "id": 1,
+      "title": "Việc nhà",
+      "image": "icon1"
+    },
+    {
+      "id": 2,
+      "title": "Vận chuyển",
+      "image": "icon2"
+    },
+    {
+      "id": 3,
+      "title": "Giáo dục và đào tạo",
+      "image": "icon3"
+    },
+    {
+      "id": 4,
+      "title": "Hoạt động và sự kiện",
+      "image": "icon4"
+    },
+    {
+      "id": 5,
+      "title": "Kỹ thuật và công nghệ",
+      "image": "icon5"
+    },
+    {
+      "id": 6,
+      "title": "Kinh doanh và quản lý",
+      "image": "icon6"
+    },
+    {
+      "id": 7,
+      "title": "Các công việc khác",
+      "image": "icon7"
+    }
+  ]
+}
