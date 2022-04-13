@@ -1,36 +1,32 @@
 {
-  "User":[
+  "User": [
     {
-    'id': 1,
-    'Name': 'Hoàng Phương',
-    'Image':
-      'https://thuthuatnhanh.com/wp-content/uploads/2022/01/Anh-avatar-cute-nu-390x390.jpg',
-    'UserName' : 'test@gmail.com',
-    'Password' : 'abc123'
-  },
-  {
-    'id': 2,
-    'Name': 'Xuân Thành',
-    'image':
-      'https://toigingiuvedep.vn/wp-content/uploads/2022/01/anh-avatar-cute.jpg',
-     'UserName' : 'test1@gmail.com',
-    'Password' : 'abc123'
-  },
-  {
-    'id': 3,
-    'Name': 'Thanh Vân',
-    'image':
-      'https://taimienphi.vn/tmp/cf/aut/mAKI-top-anh-dai-dien-dep-chat-1.jpg',
-     'UserName' : 'test2@gmail.com',
-    'Password' : 'abc123'
-  },
-  {
-    'id': 4,
-    'Name': 'Trần Hương',
-    'image':
-      'https://thuthuatnhanh.com/wp-content/uploads/2022/01/Avatar-anime-cute-hoc-sinh-393x390.jpg',
-     'UserName' : 'test3@gmail.com',
-    'Password' : 'abc123'
-  }
+      "id": 1,
+      "Name": "Hoàng Phương",
+      "Image": "https://thuthuatnhanh.com/wp-content/uploads/2022/01/Anh-avatar-cute-nu-390x390.jpg",
+      "UserName": "test@gmail.com",
+      "Password": "abc123"
+    },
+    {
+      "id": 2,
+      "Name": "Xuân Thành",
+      "Image": "https://toigingiuvedep.vn/wp-content/uploads/2022/01/anh-avatar-cute.jpg",
+      "UserName": "test1@gmail.com",
+      "Password": "abc123"
+    },
+    {
+      "id": 3,
+      "Name": "Thanh Vân",
+      "Image": "https://taimienphi.vn/tmp/cf/aut/mAKI-top-anh-dai-dien-dep-chat-1.jpg",
+      "UserName": "test2@gmail.com",
+      "Password": "abc123"
+    },
+    {
+      "id": 4,
+      "Name": "Trần Hương",
+      "Image": "https://thuthuatnhanh.com/wp-content/uploads/2022/01/Avatar-anime-cute-hoc-sinh-393x390.jpg",
+      "UserName": "test3@gmail.com",
+      "Password": "abc123"
+    }
   ]
 }
