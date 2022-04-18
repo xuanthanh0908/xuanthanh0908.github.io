@@ -8,20 +8,7 @@
       "Address": "Quận Bình Tân, Hồ Chí Minh",
       "DateN": "02 thg 04, 2022",
       "Clock": "Còn 3 ngày nữa",
-      "Type": [
-        {
-          "id": 1,
-          "id_cate": 1
-        },
-        {
-          "id": 2,
-          "id_cate": 2
-        },
-        {
-          "id": 3,
-          "id_cate": 3
-        }
-      ],
+      "Type": "Vận chuyển",
       "Price": 300,
       "NumRecruitment": 4,
       "isNew": 1,
@@ -50,9 +37,6 @@
           "time": "11 giờ trước"
         }
       ],
-      "isSaved": 0,
-      "isDelivered": 0,
-      "isRecived": 1,
       "Recruiter": 1,
       "ListUser": [
         {
@@ -79,12 +63,7 @@
       "Address": "Hà Nội",
       "DateN": "18 thg 2, 2022",
       "Clock": "Bất kì lúc nào",
-      "Type": [
-        {
-          "id": 2,
-          "id_cate": 2
-        }
-      ],
+      "Type": "Lập trình & IT",
       "Price": 300,
       "NumRecruitment": 3,
       "isNew": 1,
@@ -113,9 +92,6 @@
           "time": "11 giờ trước"
         }
       ],
-      "isSaved": 0,
-      "isDelivered": 0,
-      "isRecived": 1,
       "Recruiter": 1,
       "ListUser": [
         {
@@ -142,12 +118,7 @@
       "Address": "Hà Nội",
       "DateN": "04 thg 04, 2022",
       "Clock": "Bất kì lúc nào",
-      "Type": [
-        {
-          "id": 1,
-          "id_cate": 1
-        }
-      ],
+      "Type": "Dịch vụ",
       "Price": 500,
       "NumRecruitment": 5,
       "isNew": 0,
@@ -159,9 +130,6 @@
         }
       ],
       "Question": null,
-      "isSaved": 0,
-      "isDelivered": 0,
-      "isRecived": 1,
       "Recruiter": 2,
       "ListUser": [
         {
@@ -188,16 +156,7 @@
       "Address": "Hà Nội",
       "DateN": "28 thg 03, 2022",
       "Clock": "Hết hạn",
-      "Type": [
-        {
-          "id": 1,
-          "id_cate": 1
-        },
-        {
-          "id": 3,
-          "id_cate": 3
-        }
-      ],
+      "Type": "Đào tạo & Giáo dục",
       "Price": 423,
       "NumRecruitment": 10,
       "isNew": 0,
@@ -209,9 +168,6 @@
         }
       ],
       "Question": null,
-      "isSaved": 1,
-      "isDelivered": 0,
-      "isRecived": 0,
       "Recruiter": 3,
       "ListUser": [
         {
@@ -238,16 +194,7 @@
       "Address": "Hà Nội",
       "DateN": "28 thg 04, 2022",
       "Clock": "Bất kì lúc nào",
-      "Type": [
-        {
-          "id": 3,
-          "id_cate": 3
-        },
-        {
-          "id": 2,
-          "id_cate": 2
-        }
-      ],
+      "Type": "Vận chuyển",
       "Price": 799,
       "NumRecruitment": 7,
       "isNew": 0,
@@ -263,9 +210,6 @@
         }
       ],
       "Question": null,
-      "isSaved": 1,
-      "isDelivered": 0,
-      "isRecived": 0,
       "Recruiter": 2,
       "ListUser": null,
       "Receiver": null,
@@ -279,16 +223,7 @@
       "Address": "Hà Nội",
       "DateN": "07 thg 04, 2022",
       "Clock": "Còn 12 ngày nữa",
-      "Type": [
-        {
-          "id": 1,
-          "id_cate": 1
-        },
-        {
-          "id": 2,
-          "id_cate": 2
-        }
-      ],
+      "Type": "Kế toán & Luật, Thuế",
       "Price": 699,
       "NumRecruitment": 2,
       "isNew": 0,
@@ -300,9 +235,6 @@
         }
       ],
       "Question": null,
-      "isSaved": 1,
-      "isDelivered": 0,
-      "isRecived": 0,
       "Recruiter": 4,
       "ListUser": [
         {
@@ -329,16 +261,7 @@
       "Address": "Hà Nội",
       "DateN": "06 thg 04, 2022",
       "Clock": "Còn 10 ngày nữa",
-      "Type": [
-        {
-          "id": 1,
-          "id_cate": 1
-        },
-        {
-          "id": 2,
-          "id_cate": 2
-        }
-      ],
+      "Type": "Lập trình & IT",
       "Price": 300,
       "NumRecruitment": 3,
       "isNew": 0,
@@ -350,9 +273,6 @@
         }
       ],
       "Question": null,
-      "isSaved": 0,
-      "isDelivered": 1,
-      "isRecived": 0,
       "Recruiter": 1,
       "ListUser": [
         {
