@@ -3,8 +3,7 @@
     {
       "id": 1,
       "Type": "Đóng gói và vận chuyển đồ đạc",
-      "Sender": 1,
-      "Reciver": 2,
+      "idUserN": 1,
       "Room": 123,
       "Mess": [
         {
@@ -32,8 +31,7 @@
     {
       "id": 2,
       "Type": "Đóng gói và vận chuyển đồ đạc",
-      "Sender": 1,
-      "Reciver": 3,
+      "idUserN": 3,
       "Room": 423,
       "Mess": [
         {
@@ -41,7 +39,7 @@
           "mess": "Chào bạn, tôi thấy bạn khá tiềm năng với vị trí công việc bên mình"
         },
         {
-          "idUser": 1,
+          "idUser": 2,
           "mess": "Dạ vâng ạ"
         },
         {
@@ -49,7 +47,7 @@
           "mess": "Không biết khi nào bạn bắt đầu công việc đc nhỉ?"
         },
         {
-          "idUser": 1,
+          "idUser": 2,
           "mess": "Dạ em có thể làm được luôn vào tuần sau a ạ"
         },
         {
@@ -61,12 +59,11 @@
     {
       "id": 3,
       "Type": "Ship đồ ăn",
-      "Sender": 2,
-      "Reciver": 3,
+      "idUserN": 4,
       "Room": 790,
       "Mess": [
         {
-          "idUser": 3,
+          "idUser": 4,
           "mess": "Chào bạn, tôi thấy bạn khá tiềm năng với vị trí công việc bên mình"
         },
         {
@@ -74,7 +71,7 @@
           "mess": "Dạ vâng ạ"
         },
         {
-          "idUser": 3,
+          "idUser": 4,
           "mess": "Không biết khi nào bạn bắt đầu công việc đc nhỉ?"
         },
         {
@@ -82,7 +79,7 @@
           "mess": "Dạ em có thể làm được luôn vào tuần sau a ạ"
         },
         {
-          "idUser": 3,
+          "idUser": 4,
           "mess": "Love you"
         },
         {
