@@ -4,6 +4,7 @@
       "id": 1,
       "Type": "Đóng gói và vận chuyển đồ đạc",
       "idUserN": 1,
+      "Room": 123,
       "Mess": [
         {
           "idUser": 1,
@@ -31,6 +32,7 @@
       "id": 2,
       "Type": "Đóng gói và vận chuyển đồ đạc",
       "idUserN": 3,
+      "Room": 423,
       "Mess": [
         {
           "idUser": 3,
@@ -58,6 +60,7 @@
       "id": 3,
       "Type": "Ship đồ ăn",
       "idUserN": 4,
+      "Room": 790,
       "Mess": [
         {
           "idUser": 4,
