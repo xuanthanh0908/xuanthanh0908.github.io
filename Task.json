@@ -1,19 +1,17 @@
 {
-  "Task": [
+  "Tasks": [
     {
       "id": 1,
-      "Title": "CTV Làm việc kho BEST KCN Tân Bình ca 15:00 - 23:00 - 27/03-02/04",
-      "Description": "Lorem Ipsum chỉ đơn giản là văn bản giả của ngành in ấn và sắp chữ. Lorem Ipsum đã trở thành văn bản giả tiêu chuẩn của ngành kể từ những năm 1500, khi một nhà in không xác định lấy một dãy loại và xáo trộn nó để tạo thành một cuốn sách mẫu. Nó đã tồn tại không chỉ năm thế kỷ, mà còn là bước nhảy vọt trong lĩnh vực sắp chữ điện tử, về cơ bản vẫn không thay đổi. Nó được phổ biến vào những năm 1960 với việc phát hành các tờ Letraset chứa các đoạn Lorem Ipsum, và gần đây hơn là với phần mềm xuất bản trên máy tính để bàn như Aldus PageMaker bao gồm các phiên bản của Lorem Ipsum.",
-      "Image": "https://thuthuatnhanh.com/wp-content/uploads/2018/07/anh-dai-dien-dep.jpg",
-      "Address": "Quận Bình Tân, Hồ Chí Minh",
-      "DateN": "02 thg 04, 2022",
-      "Clock": "Còn 3 ngày nữa",
-      "Type": "Vận chuyển",
-      "Price": 300,
-      "NumRecruitment": 4,
-      "isNew": 1,
-      "Star": 10,
-      "NRequire": [
+      "title": "CTV Làm việc kho BEST KCN Tân Bình ca 15:00 - 23:00 - 27/03-02/04",
+      "description": "Lorem Ipsum chỉ đơn giản là văn bản giả của ngành in ấn và sắp chữ. Lorem Ipsum đã trở thành văn bản giả tiêu chuẩn của ngành kể từ những năm 1500, khi một nhà in không xác định lấy một dãy loại và xáo trộn nó để tạo thành một cuốn sách mẫu. Nó đã tồn tại không chỉ năm thế kỷ, mà còn là bước nhảy vọt trong lĩnh vực sắp chữ điện tử, về cơ bản vẫn không thay đổi. Nó được phổ biến vào những năm 1960 với việc phát hành các tờ Letraset chứa các đoạn Lorem Ipsum, và gần đây hơn là với phần mềm xuất bản trên máy tính để bàn như Aldus PageMaker bao gồm các phiên bản của Lorem Ipsum.",
+      "images": "https://thuthuatnhanh.com/wp-content/uploads/2018/07/anh-dai-dien-dep.jpg",
+      "address": "Quận Bình Tân, Hồ Chí Minh",
+      "createdAt": "1657787000036",
+      "timeofTask": "1657787000036",
+      "category": "Vận chuyển",
+      "initialPrice": 300,
+      "bidBy": [4],
+      "requirement": [
         {
           "id": 1,
           "content": "Có sức khỏe"
@@ -23,7 +21,7 @@
           "content": "Có tiền"
         }
       ],
-      "Question": [
+      "comment": [
         {
           "id": 1,
           "content": "Tôi muốn abc",
@@ -53,22 +51,20 @@
         }
       ],
       "Receiver": null,
-      "Status": "pending"
+      "status": "pending"
     },
     {
       "id": 2,
-      "Title": "Đóng gói vận chuyển đồ đạc",
-      "Description": "Lorem Ipsum chỉ đơn giản là văn bản giả của ngành in ấn và sắp chữ. Lorem Ipsum đã trở thành văn bản giả tiêu chuẩn của ngành kể từ những năm 1500, khi một nhà in không xác định lấy một dãy loại và xáo trộn nó để tạo thành một cuốn sách mẫu. Nó đã tồn tại không chỉ năm thế kỷ, mà còn là bước nhảy vọt trong lĩnh vực sắp chữ điện tử, về cơ bản vẫn không thay đổi. Nó được phổ biến vào những năm 1960 với việc phát hành các tờ Letraset chứa các đoạn Lorem Ipsum, và gần đây hơn là với phần mềm xuất bản trên máy tính để bàn như Aldus PageMaker bao gồm các phiên bản của Lorem Ipsum.",
-      "Image": "https://upanh123.com/wp-content/uploads/2021/04/anh-dai-dien-buon-cho-nam16.jpg",
-      "Address": "Hà Nội",
-      "DateN": "18 thg 2, 2022",
-      "Clock": "Bất kì lúc nào",
-      "Type": "Lập trình & IT",
-      "Price": 300,
-      "NumRecruitment": 3,
-      "isNew": 1,
-      "Star": 11,
-      "NRequire": [
+      "title": "Đóng gói vận chuyển đồ đạc",
+      "description": "Lorem Ipsum chỉ đơn giản là văn bản giả của ngành in ấn và sắp chữ. Lorem Ipsum đã trở thành văn bản giả tiêu chuẩn của ngành kể từ những năm 1500, khi một nhà in không xác định lấy một dãy loại và xáo trộn nó để tạo thành một cuốn sách mẫu. Nó đã tồn tại không chỉ năm thế kỷ, mà còn là bước nhảy vọt trong lĩnh vực sắp chữ điện tử, về cơ bản vẫn không thay đổi. Nó được phổ biến vào những năm 1960 với việc phát hành các tờ Letraset chứa các đoạn Lorem Ipsum, và gần đây hơn là với phần mềm xuất bản trên máy tính để bàn như Aldus PageMaker bao gồm các phiên bản của Lorem Ipsum.",
+      "images": "https://upanh123.com/wp-content/uploads/2021/04/anh-dai-dien-buon-cho-nam16.jpg",
+      "address": "Hà Nội",
+      "createdAt": "1657787000036",
+      "timeofTask": "1657787000036",
+      "category": "Lập trình & IT",
+      "initialPrice": 300,
+      "bidBy": [3],
+      "requirement": [
         {
           "id": 1,
           "content": "Có sức khỏe"
@@ -78,7 +74,7 @@
           "content": "Có tiền"
         }
       ],
-      "Question": [
+      "comment": [
         {
           "id": 1,
           "content": "Cho mình hỏi mình có thể đề xuất lại với nhau không ạ?",
@@ -108,28 +104,26 @@
         }
       ],
       "Receiver": null,
-      "Status": "pending"
+      "status": "pending"
     },
     {
       "id": 3,
-      "Title": "Hải Dương - Nhân Viên Kho (Làm Giờ Hành Chính Từ T2 đến T7)",
-      "Description": "Lorem Ipsum chỉ đơn giản là văn bản giả của ngành in ấn và sắp chữ. Lorem Ipsum đã trở thành văn bản giả tiêu chuẩn của ngành kể từ những năm 1500, khi một nhà in không xác định lấy một dãy loại và xáo trộn nó để tạo thành một cuốn sách mẫu. Nó đã tồn tại không chỉ năm thế kỷ, mà còn là bước nhảy vọt trong lĩnh vực sắp chữ điện tử, về cơ bản vẫn không thay đổi. Nó được phổ biến vào những năm 1960 với việc phát hành các tờ Letraset chứa các đoạn Lorem Ipsum, và gần đây hơn là với phần mềm xuất bản trên máy tính để bàn như Aldus PageMaker bao gồm các phiên bản của Lorem Ipsum.",
-      "Image": "https://haycafe.vn/wp-content/uploads/2021/12/anh-dai-dien-con-gai-view-cuc-chill.jpg",
-      "Address": "Hà Nội",
-      "DateN": "04 thg 04, 2022",
-      "Clock": "Bất kì lúc nào",
-      "Type": "Dịch vụ",
-      "Price": 500,
-      "NumRecruitment": 5,
-      "isNew": 0,
-      "Star": 12,
-      "NRequire": [
+      "title": "Hải Dương - Nhân Viên Kho (Làm Giờ Hành Chính Từ T2 đến T7)",
+      "description": "Lorem Ipsum chỉ đơn giản là văn bản giả của ngành in ấn và sắp chữ. Lorem Ipsum đã trở thành văn bản giả tiêu chuẩn của ngành kể từ những năm 1500, khi một nhà in không xác định lấy một dãy loại và xáo trộn nó để tạo thành một cuốn sách mẫu. Nó đã tồn tại không chỉ năm thế kỷ, mà còn là bước nhảy vọt trong lĩnh vực sắp chữ điện tử, về cơ bản vẫn không thay đổi. Nó được phổ biến vào những năm 1960 với việc phát hành các tờ Letraset chứa các đoạn Lorem Ipsum, và gần đây hơn là với phần mềm xuất bản trên máy tính để bàn như Aldus PageMaker bao gồm các phiên bản của Lorem Ipsum.",
+      "images": "https://haycafe.vn/wp-content/uploads/2021/12/anh-dai-dien-con-gai-view-cuc-chill.jpg",
+      "address": "Hà Nội",
+      "createdAt": "1657787000036",
+      "timeofTask": "1657787000036",
+      "category": "Dịch vụ",
+      "initialPrice": 500,
+      "bidBy": [5],
+      "requirement": [
         {
           "id": 1,
           "content": "Có sức khỏe"
         }
       ],
-      "Question": null,
+      "comment": null,
       "Recruiter": 2,
       "ListUser": [
         {
@@ -146,28 +140,26 @@
         }
       ],
       "Receiver": 2,
-      "Status": "working"
+      "status": "working"
     },
     {
       "id": 4,
-      "Title": "IT Helpdesk - Hà Nội (Đi Làm Ngay)",
-      "Description": "Lorem Ipsum chỉ đơn giản là văn bản giả của ngành in ấn và sắp chữ. Lorem Ipsum đã trở thành văn bản giả tiêu chuẩn của ngành kể từ những năm 1500, khi một nhà in không xác định lấy một dãy loại và xáo trộn nó để tạo thành một cuốn sách mẫu. Nó đã tồn tại không chỉ năm thế kỷ, mà còn là bước nhảy vọt trong lĩnh vực sắp chữ điện tử, về cơ bản vẫn không thay đổi. Nó được phổ biến vào những năm 1960 với việc phát hành các tờ Letraset chứa các đoạn Lorem Ipsum, và gần đây hơn là với phần mềm xuất bản trên máy tính để bàn như Aldus PageMaker bao gồm các phiên bản của Lorem Ipsum.",
-      "Image": "https://haycafe.vn/wp-content/uploads/2021/12/hinh-anh-avatar-dep-cho-con-gai-dai-dien-Facebook-Zalo-Tiktok.jpg",
-      "Address": "Hà Nội",
-      "DateN": "28 thg 03, 2022",
-      "Clock": "Hết hạn",
-      "Type": "Đào tạo & Giáo dục",
-      "Price": 423,
-      "NumRecruitment": 10,
-      "isNew": 0,
-      "Star": 12,
-      "NRequire": [
+      "title": "IT Helpdesk - Hà Nội (Đi Làm Ngay)",
+      "description": "Lorem Ipsum chỉ đơn giản là văn bản giả của ngành in ấn và sắp chữ. Lorem Ipsum đã trở thành văn bản giả tiêu chuẩn của ngành kể từ những năm 1500, khi một nhà in không xác định lấy một dãy loại và xáo trộn nó để tạo thành một cuốn sách mẫu. Nó đã tồn tại không chỉ năm thế kỷ, mà còn là bước nhảy vọt trong lĩnh vực sắp chữ điện tử, về cơ bản vẫn không thay đổi. Nó được phổ biến vào những năm 1960 với việc phát hành các tờ Letraset chứa các đoạn Lorem Ipsum, và gần đây hơn là với phần mềm xuất bản trên máy tính để bàn như Aldus PageMaker bao gồm các phiên bản của Lorem Ipsum.",
+      "images": "https://haycafe.vn/wp-content/uploads/2021/12/hinh-anh-avatar-dep-cho-con-gai-dai-dien-Facebook-Zalo-Tiktok.jpg",
+      "address": "Hà Nội",
+      "createdAt": "1657787000036",
+      "timeofTask": "1657787000036",
+      "category": "Đào tạo & Giáo dục",
+      "initialPrice": 423,
+      "bidBy": [1],
+      "requirement": [
         {
           "id": 1,
           "content": "Có sức khỏe"
         }
       ],
-      "Question": null,
+      "comment": null,
       "Recruiter": 3,
       "ListUser": [
         {
@@ -184,22 +176,20 @@
         }
       ],
       "Receiver": null,
-      "Status": "pending"
+      "status": "pending"
     },
     {
       "id": 5,
-      "Title": "Chuyên Viên Kế Toán (Lĩnh Vực Chứng Khoán, Tài Chính, Ngân Hàng)",
-      "Description": " Lorem Ipsum chỉ đơn giản là văn bản giả của ngành in ấn và sắp chữ. Lorem Ipsum đã trở thành văn bản giả tiêu chuẩn của ngành kể từ những năm 1500, khi một nhà in không xác định lấy một dãy loại và xáo trộn nó để tạo thành một cuốn sách mẫu. Nó đã tồn tại không chỉ năm thế kỷ, mà còn là bước nhảy vọt trong lĩnh vực sắp chữ điện tử, về cơ bản vẫn không thay đổi. Nó được phổ biến vào những năm 1960 với việc phát hành các tờ Letraset chứa các đoạn Lorem Ipsum, và gần đây hơn là với phần mềm xuất bản trên máy tính để bàn như Aldus PageMaker bao gồm các phiên bản của Lorem Ipsum.",
-      "Image": "https://img2.thuthuatphanmem.vn/uploads/2018/11/30/anh-dai-dien-anime-dep_104204759.jpg",
-      "Address": "Hà Nội",
-      "DateN": "28 thg 04, 2022",
-      "Clock": "Bất kì lúc nào",
-      "Type": "Vận chuyển",
-      "Price": 799,
-      "NumRecruitment": 7,
-      "isNew": 0,
-      "Star": 12,
-      "NRequire": [
+      "title": "Chuyên Viên Kế Toán (Lĩnh Vực Chứng Khoán, Tài Chính, Ngân Hàng)",
+      "description": " Lorem Ipsum chỉ đơn giản là văn bản giả của ngành in ấn và sắp chữ. Lorem Ipsum đã trở thành văn bản giả tiêu chuẩn của ngành kể từ những năm 1500, khi một nhà in không xác định lấy một dãy loại và xáo trộn nó để tạo thành một cuốn sách mẫu. Nó đã tồn tại không chỉ năm thế kỷ, mà còn là bước nhảy vọt trong lĩnh vực sắp chữ điện tử, về cơ bản vẫn không thay đổi. Nó được phổ biến vào những năm 1960 với việc phát hành các tờ Letraset chứa các đoạn Lorem Ipsum, và gần đây hơn là với phần mềm xuất bản trên máy tính để bàn như Aldus PageMaker bao gồm các phiên bản của Lorem Ipsum.",
+      "images": "https://img2.thuthuatphanmem.vn/uploads/2018/11/30/anh-dai-dien-anime-dep_104204759.jpg",
+      "address": "Hà Nội",
+      "createdAt": "1657787000036",
+      "timeofTask": "1657787000036",
+      "category": "Vận chuyển",
+      "initialPrice": 799,
+      "bidBy": [7],
+      "requirement": [
         {
           "id": 1,
           "content": "Có sức khỏe"
@@ -209,32 +199,30 @@
           "content": "Có trình độ"
         }
       ],
-      "Question": null,
+      "comment": null,
       "Recruiter": 2,
       "ListUser": null,
       "Receiver": null,
-      "Status": "pending"
+      "status": "pending"
     },
     {
       "id": 6,
-      "Title": "Chuyên Viên Tuyển Dụng - Hà Nội, HCM",
-      "Description": "Lorem Ipsum chỉ đơn giản là văn bản giả của ngành in ấn và sắp chữ. Lorem Ipsum đã trở thành văn bản giả tiêu chuẩn của ngành kể từ những năm 1500, khi một nhà in không xác định lấy một dãy loại và xáo trộn nó để tạo thành một cuốn sách mẫu. Nó đã tồn tại không chỉ năm thế kỷ, mà còn là bước nhảy vọt trong lĩnh vực sắp chữ điện tử, về cơ bản vẫn không thay đổi. Nó được phổ biến vào những năm 1960 với việc phát hành các tờ Letraset chứa các đoạn Lorem Ipsum, và gần đây hơn là với phần mềm xuất bản trên máy tính để bàn như Aldus PageMaker bao gồm các phiên bản của Lorem Ipsum.",
-      "Image": "https://allimages.sgp1.digitaloceanspaces.com/wikilaptopcom/2021/01/1610802039_Tuyen-tap-avatar-anh-dai-dien-dep-doc-dao-da.jpg",
-      "Address": "Hà Nội",
-      "DateN": "07 thg 04, 2022",
-      "Clock": "Còn 12 ngày nữa",
-      "Type": "Kế toán & Luật, Thuế",
-      "Price": 699,
-      "NumRecruitment": 2,
-      "isNew": 0,
-      "Star": 12,
-      "NRequire": [
+      "title": "Chuyên Viên Tuyển Dụng - Hà Nội, HCM",
+      "description": "Lorem Ipsum chỉ đơn giản là văn bản giả của ngành in ấn và sắp chữ. Lorem Ipsum đã trở thành văn bản giả tiêu chuẩn của ngành kể từ những năm 1500, khi một nhà in không xác định lấy một dãy loại và xáo trộn nó để tạo thành một cuốn sách mẫu. Nó đã tồn tại không chỉ năm thế kỷ, mà còn là bước nhảy vọt trong lĩnh vực sắp chữ điện tử, về cơ bản vẫn không thay đổi. Nó được phổ biến vào những năm 1960 với việc phát hành các tờ Letraset chứa các đoạn Lorem Ipsum, và gần đây hơn là với phần mềm xuất bản trên máy tính để bàn như Aldus PageMaker bao gồm các phiên bản của Lorem Ipsum.",
+      "images": "https://allimagess.sgp1.digitaloceanspaces.com/wikilaptopcom/2021/01/1610802039_Tuyen-tap-avatar-anh-dai-dien-dep-doc-dao-da.jpg",
+      "address": "Hà Nội",
+      "createdAt": "1657787000036",
+      "timeofTask": "1657787000036",
+      "category": "Kế toán & Luật, Thuế",
+      "initialPrice": 699,
+      "bidBy": [2],
+      "requirement": [
         {
           "id": 1,
           "content": "Có sức khỏe"
         }
       ],
-      "Question": null,
+      "comment": null,
       "Recruiter": 4,
       "ListUser": [
         {
@@ -251,28 +239,26 @@
         }
       ],
       "Receiver": null,
-      "Status": "pending"
+      "status": "pending"
     },
     {
       "id": 7,
-      "Title": "Nhân Viên Dự Toán Nội Thất - Lương Cứng 10-20 Triệu + Thưởng",
-      "Description": "Lorem Ipsum chỉ đơn giản là văn bản giả của ngành in ấn và sắp chữ. Lorem Ipsum đã trở thành văn bản giả tiêu chuẩn của ngành kể từ những năm 1500, khi một nhà in không xác định lấy một dãy loại và xáo trộn nó để tạo thành một cuốn sách mẫu. Nó đã tồn tại không chỉ năm thế kỷ, mà còn là bước nhảy vọt trong lĩnh vực sắp chữ điện tử, về cơ bản vẫn không thay đổi. Nó được phổ biến vào những năm 1960 với việc phát hành các tờ Letraset chứa các đoạn Lorem Ipsum, và gần đây hơn là với phần mềm xuất bản trên máy tính để bàn như Aldus PageMaker bao gồm các phiên bản của Lorem Ipsum.",
-      "Image": "https://i.pinimg.com/736x/6e/af/1a/6eaf1a844ae4b6fa6eeb6ff17f468cc0.jpg",
-      "Address": "Hà Nội",
-      "DateN": "06 thg 04, 2022",
-      "Clock": "Còn 10 ngày nữa",
-      "Type": "Lập trình & IT",
-      "Price": 300,
-      "NumRecruitment": 3,
-      "isNew": 0,
-      "Star": 12,
-      "NRequire": [
+      "title": "Nhân Viên Dự Toán Nội Thất - Lương Cứng 10-20 Triệu + Thưởng",
+      "description": "Lorem Ipsum chỉ đơn giản là văn bản giả của ngành in ấn và sắp chữ. Lorem Ipsum đã trở thành văn bản giả tiêu chuẩn của ngành kể từ những năm 1500, khi một nhà in không xác định lấy một dãy loại và xáo trộn nó để tạo thành một cuốn sách mẫu. Nó đã tồn tại không chỉ năm thế kỷ, mà còn là bước nhảy vọt trong lĩnh vực sắp chữ điện tử, về cơ bản vẫn không thay đổi. Nó được phổ biến vào những năm 1960 với việc phát hành các tờ Letraset chứa các đoạn Lorem Ipsum, và gần đây hơn là với phần mềm xuất bản trên máy tính để bàn như Aldus PageMaker bao gồm các phiên bản của Lorem Ipsum.",
+      "images": "https://i.pinimg.com/736x/6e/af/1a/6eaf1a844ae4b6fa6eeb6ff17f468cc0.jpg",
+      "address": "Hà Nội",
+      "createdAt": "1657787000036",
+      "timeofTask": "1657787000036",
+      "category": "Lập trình & IT",
+      "initialPrice": 300,
+      "bidBy": [3],
+      "requirement": [
         {
           "id": 1,
           "content": "Có sức khỏe"
         }
       ],
-      "Question": null,
+      "comment": null,
       "Recruiter": 1,
       "ListUser": [
         {
@@ -289,7 +275,7 @@
         }
       ],
       "Receiver": null,
-      "Status": "working"
+      "status": "working"
     }
   ]
 }
