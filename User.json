@@ -41,6 +41,7 @@
         "role": "user",
         "isEmailVerified": false,
         "shortId": "Mnsadsdasdeqw",
+        "avatar": "https://tophinhanh.com/wp-content/uploads/2021/12/26_anh-avatar-dep-cho-con-gai.jpg",
         "color": "Green",
         "reviews": [],
         "createdAt": "2022-06-01T13:42:34.298Z",
@@ -64,5 +65,4 @@
         "updatedAt": "2022-06-12T10:08:31.302Z",
         "__v": 0,
         "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyYTA1YjgwOGYwOWI1NmZmMTJiZWJjYSIsImlhdCI6MTY1NDY3NjM1MiwiZXhwIjoxNjU0Njc2MzUyfQ.Lvc0uN9Qae4rxDH7UoPTf5mbDJg_E0XcYN0wgR26Ql4",
-        "avatar": "my-photo"
     },
