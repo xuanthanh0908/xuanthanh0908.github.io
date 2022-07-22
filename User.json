@@ -1,32 +1,68 @@
 {
-  "User": [
-    {
-      "id": 1,
-      "Name": "Hoàng Phương",
-      "Image": "https://thuthuatnhanh.com/wp-content/uploads/2022/01/Anh-avatar-cute-nu-390x390.jpg",
-      "UserName": "test@gmail.com",
-      "Password": "abc123"
+        "_id": "62534d3988097eb41c0358ca",
+        "name": "TestShrek",
+        "username": "shrekfanboy",
+        "email": "shrekfanboy@gmail.com",
+        "password": "$2a$08$VlqK7VrhcunpNj5i.fD9yOAoT/MT1oEI/Mo6QLi0wTh/xDR0ujP9i",
+        "role": "user",
+        "isEmailVerified": false,
+        "avatar": "https://khoinguonsangtao.vn/wp-content/uploads/2022/05/anh-avatar-dep-ngau-hinh-dai-dien.jpg",
+        "shortId": "1",
+        "color": "green",
+        "reviews": [],
+        "createdAt": "2022-04-10T21:33:45.927Z",
+        "updatedAt": "2022-06-08T08:25:35.963Z",
+        "__v": 0,
+        "avatar": "1654676731927"
     },
     {
-      "id": 2,
-      "Name": "Xuân Thành",
-      "Image": "https://toigingiuvedep.vn/wp-content/uploads/2022/01/anh-avatar-cute.jpg",
-      "UserName": "test1@gmail.com",
-      "Password": "abc123"
+        "_id": "628a6f939106c309f95277d7",
+        "name": "Name repairrepair",
+        "username": "anhdat112",
+        "email": "toidaidot@gmail.com",
+        "password": "$2a$08$/27TQ9hazxwhYiKQBrvWTecEVaWSAdX8qz7zEov60Foy3YNWwQMA.",
+        "role": "user",
+        "isEmailVerified": false,
+        "shortId": "B2kasdgB2kasdg",
+        "avatar": "https://batterydown.vn/wp-content/uploads/2022/05/1_anh-avatar-dep-cho-con-gai.jpg",
+        "color": "blueblue",
+        "reviews": [],
+        "createdAt": "2022-05-22T17:14:59.865Z",
+        "updatedAt": "2022-05-22T17:23:00.074Z",
+        "__v": 0,
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyOGE2ZjkzOTEwNmMzMDlmOTUyNzdkNyIsImlhdCI6MTY1MzIzOTY5OSwiZXhwIjoxNjUzMjM5Njk5fQ.Q5XJlkKwT2Ph4uAUcRMSbD6_yw2Z_x7tEozLhbq680M"
     },
     {
-      "id": 3,
-      "Name": "Thanh Vân",
-      "Image": "https://taimienphi.vn/tmp/cf/aut/mAKI-top-anh-dai-dien-dep-chat-1.jpg",
-      "UserName": "test2@gmail.com",
-      "Password": "abc123"
+        "_id": "62976cca9106c309f9527962",
+        "name": "Xuan Thanh",
+        "username": "testuser",
+        "email": "xuanthanh@gmail.com",
+        "password": "$2a$08$C9QPTn7IE0qDcPNGe0HGw.CwmLbmhaAGx5GNYuRzVSX9N/h5URX.y",
+        "role": "user",
+        "isEmailVerified": false,
+        "shortId": "Mnsadsdasdeqw",
+        "color": "Green",
+        "reviews": [],
+        "createdAt": "2022-06-01T13:42:34.298Z",
+        "updatedAt": "2022-06-01T13:42:34.346Z",
+        "__v": 0,
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyOTc2Y2NhOTEwNmMzMDlmOTUyNzk2MiIsImlhdCI6MTY1NDA5MDk1NCwiZXhwIjoxNjU0MDkwOTU0fQ.yS4llqlxIq1P4QtzAHJThXyRHAkkZqDFtkR1Z35hQ2s"
     },
     {
-      "id": 4,
-      "Name": "Trần Hương",
-      "Image": "https://thuthuatnhanh.com/wp-content/uploads/2022/01/Avatar-anime-cute-hoc-sinh-393x390.jpg",
-      "UserName": "test3@gmail.com",
-      "Password": "abc123"
-    }
-  ]
-}
+        "_id": "62a05b808f09b56ff12bebca",
+        "name": "Tester",
+        "username": "Uwu",
+        "email": "shrekfanboy123@gmail.com",
+        "password": "$2a$08$HyzQqeq46rwagcEWh2x5/.GXwFLRBGyc8zw7lPgRanydrtP6/.Mfm",
+        "role": "user",
+        "isEmailVerified": false,
+        "shortId": "1",
+        "avatar": "https://tophinhanh.com/wp-content/uploads/2021/12/19_anh-avatar-dep-cho-con-gai.jpg",
+        "color": "green",
+        "reviews": [],
+        "createdAt": "2022-06-08T08:19:12.551Z",
+        "updatedAt": "2022-06-12T10:08:31.302Z",
+        "__v": 0,
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYyYTA1YjgwOGYwOWI1NmZmMTJiZWJjYSIsImlhdCI6MTY1NDY3NjM1MiwiZXhwIjoxNjU0Njc2MzUyfQ.Lvc0uN9Qae4rxDH7UoPTf5mbDJg_E0XcYN0wgR26Ql4",
+        "avatar": "my-photo"
+    },
