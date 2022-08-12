@@ -1,0 +1,39 @@
+{
+  "Category": [
+    {
+      "id": 1,
+      "title": "Việc nhà",
+      "image": "https://drive.google.com/file/d/1AQLG0v0cK5nYd5qbGOd5IjIJyXws01vV/view?usp=sharing"
+    },
+    {
+      "id": 2,
+      "title": "Vận chuyển",
+      "image": "https://drive.google.com/file/d/1XEhDSAzKsF6-4M8ahk5GB3ZJUkNpp1tp/view?usp=sharing"
+    },
+    {
+      "id": 3,
+      "title": "Giáo dục và đào tạo",
+      "image": "https://drive.google.com/file/d/1CXptZ4d2kuv9il3etZdhQKiBAVZ5qqoX/view?usp=sharing"
+    },
+    {
+      "id": 4,
+      "title": "Hoạt động và sự kiện",
+      "image": "https://drive.google.com/file/d/1WX86H1Cf2i8bB8dy2LpQnDP00qfKrj2M/view?usp=sharing"
+    },
+    {
+      "id": 5,
+      "title": "Kỹ thuật và công nghệ",
+      "image": "https://drive.google.com/file/d/1WX86H1Cf2i8bB8dy2LpQnDP00qfKrj2M/view?usp=sharing"
+    },
+    {
+      "id": 6,
+      "title": "Kinh doanh và quản lý",
+      "image": "https://drive.google.com/file/d/1T7X1yqmzkemJVzchI4EyiOCv1A8aymnF/view?usp=sharing"
+    },
+    {
+      "id": 7,
+      "title": "Các công việc khác",
+      "image": "https://drive.google.com/file/d/1dkNORzXk57HwipavyrPGXhHiKZ5EBeXI/view?usp=sharing"
+    }
+  ]
+}
